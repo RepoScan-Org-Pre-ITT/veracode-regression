@@ -11,3 +11,5 @@ For guidance on installing the Veracode Workflow Application and additional info
 https://docs.veracode.com/r/GitHub_Workflow_Integration_for_Repo_Scanning
 
 <!-- Updated at 2026-09-06T14:53:40.635Z -->
+
+<!-- Updated at 2026-09-07T05:51:38.342Z -->
